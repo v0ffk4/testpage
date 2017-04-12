@@ -13,13 +13,14 @@ $fontSizeMedium:	2.5888rem;
 $fontSizeNormal:	1.6rem;
 $fontSizeSmall:		0.9889rem;
 
-$offWhite:		#eeed8b6;
+$colorOffWhite:		#eeed8b6;
+$colorHeader:	hsla(38, 7%, 30%, 1);
 
 $small:		screen and (min-width:600px);
 $medium:	screen and (min-width:900px);
 $large:		screen and (min-width:1200px);
 
-$containerDefaultWidth:	80%;
+$containerDefaultWidth:	90%;
 $containerMaxWidth:		1200px;
 
 $linkTransitionDuration: 0.5s;

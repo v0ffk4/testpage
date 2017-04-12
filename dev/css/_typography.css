@@ -34,6 +34,7 @@ p:last-of-type {
 
 h1, h2, h3,
 h4, h5, h6 {
+	color: $colorHeader;
 	font-family: $fontHeader;
 	margin: 1.6rem auto 0.4rem auto;
 }
