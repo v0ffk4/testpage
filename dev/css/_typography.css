@@ -1,0 +1,64 @@
+.font-small {
+	font-size: 0.9889rem;
+}
+
+.font-normal {
+	font-size: 1.6rem;
+}
+
+.font-medium {
+	font-size: 2.5888rem;
+}
+
+.font-large {
+	font-size: 4.1887rem;
+}
+
+
+
+p {
+	font-family: $fontMain;
+	font-size: 1.6rem;
+	font-weight: $fontWeightLight;
+	line-height: 160%;
+	hyphens: auto;
+}
+
+p:first-of-type {
+	margin-top:0;
+}
+
+p:last-of-type {
+	margin-bottom:3.2rem;
+}
+
+h6 {
+	font-size: 1.6rem;
+	font-weight: $fontWeightNormal;
+	margin: 1.6rem auto 0.4rem auto;
+}
+
+h5 {
+	font-size: 2.5888rem;
+	font-weight: $fontWeightNormal;
+	margin: 1.6rem auto 0.4rem auto;
+}
+
+h4 {
+	font-size: 4.1887rem;
+	font-weight: $fontWeightNormal;
+	margin: 1.6rem auto 0.4rem auto;
+}
+
+h3 {
+	font-size: 6.7773rem;
+	font-weight: $fontWeightNormal;
+	margin: 1.6rem auto 0.4rem auto;
+}
+
+h1 {
+	font-size: 10.9656rem;
+	font-weight: $fontWeightNormal;
+	margin: 1.6rem auto 0.4rem auto;
+}
+

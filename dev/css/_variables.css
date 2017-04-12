@@ -1,0 +1,22 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300italic,300,700);
+
+$fontMain: Lato, Helvetica, Arial, sans-serif;
+$fontWeightLight:		300;
+$fontWeightNormal:		400;
+$fontWeightBold:		600;
+
+$fontSizeLarge:		4.1887rem;
+$fontSizeMedium:	2.5888rem;
+$fontSizeNormal:	1.6rem;
+$fontSizeSmall:		0.9889rem;
+
+$offWhite:		#eeed8b6;
+
+$small:		screen and (min-width:600px);
+$medium:	screen and (min-width:900px);
+$large:		screen and (min-width:1200px);
+
+$containerDefaultWidth:	80%;
+$containerMaxWidth:		1200px;
+
+$linkTransitionDuration: 0.5s;

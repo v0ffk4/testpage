@@ -1,0 +1,11 @@
+.test-logo {
+	display: block;
+	width: 150px;
+	height: auto;
+	margin: 5rem auto;
+}
+
+.test-container {
+	width: $containerDefaultWidth;
+	margin: 0 auto;
+}
