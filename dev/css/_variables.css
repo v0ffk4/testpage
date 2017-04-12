@@ -1,13 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300italic,300,700);
-@import url('https://fonts.googleapis.com/css?family=Play:400,700&subset=cyrillic');
-@font-face {
-  font-family: 'Vetka';
-  src: url('../f/vetka.otf'); /* IE9 Compat Modes */
-}
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700&subset=cyrillic');
 
 
-$fontHeader:			Play;
-$fontMain:				Lato, Helvetica, Arial, sans-serif;
+$fontHeader:			'PT Sans Narrow', sans-serif;
+$fontMain:				'Lato', Helvetica, Arial, sans-serif;
 $fontWeightLight:		300;
 $fontWeightNormal:		400;
 $fontWeightBold:		700;
