@@ -32,6 +32,12 @@ p:last-of-type {
 	margin-bottom:3.2rem;
 }
 
+h1, h2, h3,
+h4, h5, h6 {
+	font-family: $fontHeader;
+	margin: 1.6rem auto 0.4rem auto;
+}
+
 h6 {
 	font-size: 1.6rem;
 	font-weight: $fontWeightNormal;
@@ -47,10 +53,14 @@ h5 {
 h4 {
 	font-size: 4.1887rem;
 	font-weight: $fontWeightNormal;
-	margin: 1.6rem auto 0.4rem auto;
 }
 
 h3 {
+	font-size: 4.1887rem;
+	font-weight: $fontWeightBold;
+}
+
+h2 {
 	font-size: 6.7773rem;
 	font-weight: $fontWeightNormal;
 	margin: 1.6rem auto 0.4rem auto;
